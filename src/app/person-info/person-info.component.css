@@ -1,0 +1,56 @@
+.person-detail-modal {
+    background-color: #e9eaef;
+    height: 100vh;
+}
+
+.person-detail-modal .employee-card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    background: #fff;
+    box-shadow: 0 1px 3px 0 rgba(0, 0, 0, .09);
+    margin: 50px 0;
+    padding: 0 50px;
+}
+
+.person-detail-modal .employee-card form {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.person-detail-modal .employee-card form h1 {
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 39px;
+    font-family: "Lato", sans-serif;
+    color: #000;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.person-detail-modal .employee-card form label {
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    font-family: "Lato", sans-serif;
+    color: #000;
+    margin-bottom: 5px;
+}
+
+.person-detail-modal .employee-card form label b {
+    font-weight: 400;
+}
+
+.person-detail-modal .employee-card form .form-group {
+    margin-bottom: 30px;
+}
+
+.person-detail-modal .employee-card form .button-section {
+    display: flex;
+    gap: 16px;
+}

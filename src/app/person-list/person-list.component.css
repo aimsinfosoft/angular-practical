@@ -1,0 +1,11 @@
+.person-list-table table.dataTable thead th{
+    border-top: 1px solid rgba(0, 0, 0, 0.3);
+}
+
+.person-list-form .person-list-button{
+    margin: 16px 0;
+}
+
+.person-list-table table{
+    padding-top: 16px;
+}
